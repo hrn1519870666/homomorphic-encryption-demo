@@ -1,0 +1,3 @@
+C:/Users/jerry/CLionProjects/homomorphic-encryption-demo/cmake-build-debug/CMakeFiles/homomorphic_encryption_demo.dir
+C:/Users/jerry/CLionProjects/homomorphic-encryption-demo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jerry/CLionProjects/homomorphic-encryption-demo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
